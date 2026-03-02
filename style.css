@@ -1,0 +1,16 @@
+body{
+    background-color: #000000; /*muda cor de fundo*/
+     color: #ffffff; /*muda cor letra*/
+     display:flex; /*organiza os elementos*/
+     justify-content: space-around; /*cria espaço igual*/
+     margin: top 150px; 
+}
+
+h1{
+    font-size: 32px; /*altera tamanho da fonte*/
+}
+p{
+    font: size 22px;
+}
+div{
+    width: 500px;
